@@ -1,6 +1,6 @@
-- 👋 Hi! I'm @Gander_7, a Canadian full-time software developer of 10+ years who, somehow, still enjoys to develop in the off hours when I can.
+- 👋 Hi! I'm @Gander_7, a Canadian full-time software developer of 15+ years who, somehow, still enjoys to develop in the off hours when I can.
 - 🫶 **Working For**: ResMed
 - 🔭 **Working On**: My own TTRPG note database, a Blades in the Dark character sheet manager, and random thoughts here or there.
-- 🎓 **Working With**: C#, python, and React with past experience in TSQL, Java, WLanguage, C++ and old school plain HTML.
+- 🎓 **Working With**: Java, C#, JS, and React with past experience in TSQL, WLanguage, C++ and old school plain HTML/CSS/JQUERY.
 - 👯 **Will Help With**: Anything that helps humanity, related to TTRPGS, or related to [Obsidianmd](https://github.com/obsidianmd).
-- 🌱 **Learning**: ChatGPT is less helpful with advanced code, the latest enjoyable frameworks, and hopefully more Rust soon.
+- 🌱 **Learning**: Enterprise React and MFEs. Deeper into the hole of FoundryVTT development.
